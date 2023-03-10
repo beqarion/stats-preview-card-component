@@ -40,7 +40,7 @@ Users should be able to:
 
 - [Solution](https://github.com/beqarion/stats-preview-card-component)
 
-- [Live Site](https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC)
+- [Live Site](https://beqarion.github.io/stats-preview-card-component/)
 
 ## My process
 
